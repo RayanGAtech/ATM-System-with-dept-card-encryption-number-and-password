@@ -167,6 +167,7 @@ class ClientServer():
       print(info2)
 '''
 #---------------------------------------------------------------------
+# if you would to like to conutinue developing you can start from here!
 
 # ATM Info contains all ATM information like how much money stored in the ATM
 def ATM_Info():
@@ -176,6 +177,6 @@ def ATM_Info():
  # Conectivity check
   return
 
-
+  
 # Code trigger
 DataSecurity()
